@@ -9,20 +9,19 @@ Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguage
  - Nível 2: [Primeira Fase](./2015/nivel2/fase1)
  - Nível Universitário: [Primeira Fase](./2015/universitario/fase1)
 
-   
-```python
+<pre>
 b = leia_inteiros(" ")[2]
-var num := leia_inteiros(" ").ordene.inverta
-var arquivos := 0
+<b>var</b> num := leia_inteiros(" ").<i>ordene.inverta</i>
+<b>var</b> arquivos := 0
 
-enquanto num.tamanho > 0 faça
+<b>enquanto</b> num.<i>tamanho</i> > 0 <b>faça</b>
   arquivos:= arquivos + 1
-  se num.primeiro + num.último <= b então
-    num := num.cauda.pegue(num.tamanho - 2) 
-  senão
-    num := num.cauda
-  fim
-fim
+  <b>se</b> num.<i>primeiro</i> + num.<i>último</i> <= b <b>então</b>
+    num := num.<i>cauda.pegue</i>(num.<i>tamanho</i> - 2) 
+  <b>senão</b>
+    num := num.<i>cauda</i>
+  <b>fim</b>
+<b>fim</b>
 
-escreva arquivos
-```
+<b>escreva</b> arquivos
+</pre>
