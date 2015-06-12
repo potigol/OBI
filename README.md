@@ -10,16 +10,16 @@ Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguage
  - Nível Universitário: [Primeira Fase](./2015/universitario/fase1)
 
 <pre>
-b = leia_inteiros(" ")[2]
-<b>var</b> num := leia_inteiros(" ").<i>ordene.inverta</i>
-<b>var</b> arquivos := 0
+b <b>=</b> leia_inteiros(" ")<b>[</b>2<b>]</b>
+<b>var</b> num <b>:=</b> leia_inteiros(" ").<i>ordene.inverta</i>
+<b>var</b> arquivos <b>:=</b> 0
 
-<b>enquanto</b> num.<i>tamanho</i> > 0 <b>faça</b>
-  arquivos:= arquivos + 1
-  <b>se</b> num.<i>primeiro</i> + num.<i>último</i> <= b <b>então</b>
-    num := num.<i>cauda.pegue</i>(num.<i>tamanho</i> - 2) 
+<b>enquanto</b> num.<i>tamanho</i><b> > </b>0 <b>faça</b>
+  arquivos<b>:=</b> arquivos <b>+</b> 1
+  <b>se</b> num.<i>primeiro</i> <b>+</b> num.<i>último</i><b> <= </b>b <b>então</b>
+    num <b>:=</b> num.<i>cauda.pegue</i>(num.<i>tamanho</i> <b>-</b> 2) 
   <b>senão</b>
-    num := num.<i>cauda</i>
+    num <b>:=</b> num.<i>cauda</i>
   <b>fim</b>
 <b>fim</b>
 
