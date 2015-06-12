@@ -1,0 +1,7 @@
+a, b, c, d = leia_inteiro
+
+se a == b + c + d e b + c == d e b == c então
+  escreva "S"
+senão
+  escreva "N"
+fim

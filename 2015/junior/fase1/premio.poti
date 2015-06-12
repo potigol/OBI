@@ -1,0 +1,8 @@
+n = leia_inteiro
+var dias := 0
+var soma := 0
+enquanto soma < 1000000 faça
+  dias := dias + 1
+  soma := soma + leia_inteiro
+fim
+escreva dias
