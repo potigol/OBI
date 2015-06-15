@@ -1,0 +1,16 @@
+# Arquivos
+
+b = leia_inteiros(" ")[2]
+var num := leia_inteiros(" ").ordene.inverta
+var arquivos := 0
+
+enquanto num.tamanho > 0 faça
+  arquivos:= arquivos + 1
+  se num.primeiro + num.último <= b então
+    num := num.cauda.pegue(num.tamanho - 2) 
+  senão
+    num := num.cauda
+  fim
+fim
+
+escreva arquivos
