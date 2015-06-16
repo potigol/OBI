@@ -1,0 +1,11 @@
+x = leia_inteiros(" ") 
+n, m = x[1], x[2]
+
+max(a, b: Long) = se a > b então a senão b fim
+min(a, b: Long) = se a < b então a senão b fim
+
+var res := max(0,0)
+para i de 1 até m faça
+  res := res + max(0, min(m, n - i - 1) - max(1, n - i - m) + 1)
+fim
+escreva res

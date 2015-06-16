@@ -1,0 +1,19 @@
+n = leia_inteiro
+peça = Lista.mutavel(200001, ("A", 0)) 
+
+para i de 1 até n faça
+  linha = leia(" ") 
+  ee = linha[1].para_inteiro + 1
+  c = linha[2]
+  d = linha[3].para_inteiro + 1
+  peça[ee] := (c, d) 
+fim
+
+var p = 1
+var resp = ""
+enquanto p <> 2 faça
+  resp := resp + peça[p].primeiro
+  p := peça[p].segundo
+fim
+
+escreva res

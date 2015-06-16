@@ -1,0 +1,6 @@
+cores = leia_inteiros(" ")
+se cores[1]==cores[3] ou cores[2]==cores[4] então
+  escreva "V"
+senão
+  escreva "F"
+fim

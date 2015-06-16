@@ -17,4 +17,4 @@ para i de 1 até n faça
   se lista[i] > 9 então lista[i] := 9 fim
 fim
 
-escreva lista
+escreva lista.junte(" ")
