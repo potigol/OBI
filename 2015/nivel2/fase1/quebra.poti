@@ -16,4 +16,4 @@ enquanto p <> 2 faça
   p := peça[p].segundo
 fim
 
-escreva res
+escreva resp
