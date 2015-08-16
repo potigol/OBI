@@ -9,10 +9,10 @@ Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguage
  - Nível 2: [Primeira Fase](./2015/nivel2/fase1)
  - Nível Universitário: [Primeira Fase](./2015/universitario/fase1)
 
- ## 2014
- [Provas]http://olimpiada.ic.unicamp.br/passadas/OBI2014)
+## 2014
+[Provas]http://olimpiada.ic.unicamp.br/passadas/OBI2014)
 
-  - Nível Júnior: [Segunda Fase](./2015/junior/fase2)
+ - Nível Júnior: [Segunda Fase](./2014/junior/fase2)
 
 <pre>
 b <b>=</b> leia_inteiros(" ")<b>[</b>2<b>]</b>
