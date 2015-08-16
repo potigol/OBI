@@ -9,6 +9,11 @@ Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguage
  - Nível 2: [Primeira Fase](./2015/nivel2/fase1)
  - Nível Universitário: [Primeira Fase](./2015/universitario/fase1)
 
+ ## 2014
+ [Provas]http://olimpiada.ic.unicamp.br/passadas/OBI2014)
+
+  - Nível Júnior: [Segunda Fase](./2015/junior/fase2)
+
 <pre>
 b <b>=</b> leia_inteiros(" ")<b>[</b>2<b>]</b>
 <b>var</b> num <b>:=</b> leia_inteiros(" ").<i>ordene.inverta</i>
@@ -17,7 +22,7 @@ b <b>=</b> leia_inteiros(" ")<b>[</b>2<b>]</b>
 <b>enquanto</b> num.<i>tamanho</i><b> > </b>0 <b>faça</b>
   arquivos<b>:=</b> arquivos <b>+</b> 1
   <b>se</b> num.<i>primeiro</i> <b>+</b> num.<i>último</i><b> <= </b>b <b>então</b>
-    num <b>:=</b> num.<i>cauda.pegue</i>(num.<i>tamanho</i> <b>-</b> 2) 
+    num <b>:=</b> num.<i>cauda.pegue</i>(num.<i>tamanho</i> <b>-</b> 2)
   <b>senão</b>
     num <b>:=</b> num.<i>cauda</i>
   <b>fim</b>

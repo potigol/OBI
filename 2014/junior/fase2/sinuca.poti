@@ -1,0 +1,12 @@
+leia_inteiro
+var linha := leia_inteiros(" ")
+sinuca(l: Lista[Inteiro]): Texto
+  escolha l
+    caso a :: [] se a < 0 => "branca"
+    caso a :: [] se a > 0 => "preta"
+    caso as => sinuca(para i de 2 até linha.tamanho gere
+                 linha[i - 1] * linha[i]
+               fim)
+  fim
+fim
+sinuca(linha)
