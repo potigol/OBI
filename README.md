@@ -10,7 +10,7 @@ Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguage
  - Nível Universitário: [Primeira Fase](./2015/universitario/fase1)
 
 ## 2014
-[Provas]http://olimpiada.ic.unicamp.br/passadas/OBI2014)
+[Provas](http://olimpiada.ic.unicamp.br/passadas/OBI2014)
 
  - Nível Júnior: [Segunda Fase](./2014/junior/fase2)
 
