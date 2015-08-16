@@ -1,0 +1,11 @@
+# fila
+leia_inteiro
+inicial = leia_inteiros(" ")
+leia_inteiro
+saiu = leia_inteiros(" ")
+s = Lista.mutavel(100000, verdadeiro)
+para i em saiu faça
+  s[i] := falso
+fim
+fila = inicial.selecione(i => s[i])
+escreva fila.junte(" ")

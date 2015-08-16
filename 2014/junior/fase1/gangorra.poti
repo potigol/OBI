@@ -1,0 +1,12 @@
+# gangorra
+a = leia_inteiros(" ")
+p1, c1, p2, c2 = a[1], a[2], a[3], a[4]
+esq = p1 * c1
+dir = p2 * c2
+se esq > dir então
+  escreva -1
+senãose esq < dir então
+  escreva 1
+senão
+  escreva 0
+fim
