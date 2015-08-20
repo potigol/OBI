@@ -1,3 +1,1 @@
-escreva leia_inteiros(" ")
-          .mapeie(i => i - 1)
-          .injete(1)(_ + _)
+escreva leia_inteiros(" ").injete(-3)(_ + _)
