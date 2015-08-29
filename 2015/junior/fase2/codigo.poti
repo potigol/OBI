@@ -1,0 +1,9 @@
+n = leia_inteiro
+linha = leia_inteiros(" ")
+var x := 0
+para i de 1 até n - 2 faça
+  se linha[i] == 1 e linha[i + 1] == 0 e linha[i + 2] == 0 então
+    x := x + 1
+  fim
+fim
+escreva x

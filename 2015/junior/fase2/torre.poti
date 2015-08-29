@@ -1,0 +1,17 @@
+n = leia_inteiro
+matriz = Lista.imutavel(n, leia_inteiros(" "))
+colunas, linhas = Lista.mutavel(n, 0)
+para i de 1 até n,
+     j de 1 até n faça
+  linhas[i] := linhas[i] + matriz[i][j]
+  colunas[j] := colunas[j] + matriz[i][j]
+fim
+var maior := 0
+para i de 1 até n,
+     j de 1 até n faça
+  soma = linhas[i] + colunas[j] - 2 * matriz[i][j]
+  se soma > maior então
+    maior := soma
+  fim
+fim
+escreva maior

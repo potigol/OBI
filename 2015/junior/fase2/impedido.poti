@@ -1,0 +1,9 @@
+x = leia_inteiros(" ")
+l = x[1]
+r = x[2]
+d = x[3]
+se r>50 e l<r e r>d então
+  escreva "S"
+senao
+  escreva "N"
+fim
