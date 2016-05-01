@@ -1,16 +1,13 @@
 # Arquivos
+ent = leia_inteiros(" ") 
+n, b = ent[1], ent[2]
+num = leia_inteiros(" ").ordene
 
-b = leia_inteiros(" ")[2]
-var num := leia_inteiros(" ").ordene.inverta
-var arquivos := 0
-
-enquanto num.tamanho > 0 faça
-  arquivos:= arquivos + 1
-  se num.primeiro + num.último <= b então
-    num := num.cauda.pegue(num.tamanho - 2) 
-  senão
-    num := num.cauda
+var x, y := 1, n
+enquanto x<=y faça
+  se num[x] + num[y] <= b então
+    x := x + 1
   fim
+  y := y - 1
 fim
-
-escreva arquivos
+escreva n - y
