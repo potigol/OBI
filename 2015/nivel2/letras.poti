@@ -1,0 +1,8 @@
+texto = leia_texto
+letras = Lista.mutável(26, 0)
+para a em texto faça
+  x = a - 'A' + 1
+  y = letras.pegue(x).ordene.último
+  letras[x] := y + 1
+fim
+escreva letras.ordene.último
