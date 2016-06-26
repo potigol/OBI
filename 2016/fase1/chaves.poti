@@ -1,0 +1,26 @@
+n = leia_inteiro
+linhas = leia_textos(n)
+
+var i := 1
+var aberto := 0
+var continuar := verdadeiro
+
+enquanto i <= n e continuar faça
+  para c em linhas[i] faça
+    escolha c
+      caso '{' => aberto := aberto + 1
+      caso '}' => aberto := aberto - 1
+      caso _   =>
+    fim
+    se aberto < 0 então
+      continuar := falso
+    fim
+  fim
+  i := i + 1
+fim
+
+se continuar e aberto == 0 então
+  escreva "S"
+senão
+  escreva "N"
+fim

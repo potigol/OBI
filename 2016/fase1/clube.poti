@@ -1,0 +1,8 @@
+n = leia_inteiro
+x = leia_inteiros(" ")
+pessoas = x[1] + x[2] + x[3] + x[7] - (x[4] + x[5] + x[6])
+se pessoas == n então
+  escreva "N"
+senão
+  escreva "S"
+fim

@@ -1,0 +1,19 @@
+n = leia_inteiro
+piscinas = leia_inteiros(n)
+
+var pilha := Lista(0, 0)
+var cheio := 0
+
+para piscina em piscinas faça
+  # remove as piscinas mais baixas antes da piscina atual
+  nova_pilha = pilha.passe_enquanto( _ < piscina)
+
+  se nova_pilha.tamanho > 0 então
+    cheio := cheio + pilha.tamanho - nova_pilha.tamanho
+  fim
+
+  # coloca a piscina atual na pilha
+  pilha := piscina :: nova_pilha
+fim
+
+escreva cheio

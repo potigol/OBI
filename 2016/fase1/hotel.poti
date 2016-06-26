@@ -1,0 +1,10 @@
+entrada = leia_inteiros(" ")
+ia, ib, fa, fb = entrada[1], entrada[2], entrada[3], entrada[4]
+
+se ia <> fa então
+  escreva 1
+senãose ib == fb então
+  escreva 0
+senão
+  escreva 2
+fim

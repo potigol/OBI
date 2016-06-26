@@ -1,0 +1,8 @@
+n = leia_inteiro
+x = leia_inteiros(" ")
+
+i1 = n mod 2
+i2 = x.filtre(_ == 2).tamanho mod 2
+
+escreva i1
+escreva i2

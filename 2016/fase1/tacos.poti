@@ -1,0 +1,18 @@
+c = leia_inteiro
+tacos = leia_inteiros(" ").ordene
+
+# primeira consulta
+var tacos_fabricados := 2
+var tem_no_estoque   := 1
+
+# segunda consulta em diante
+para i de 2 até c faça
+  se tacos[i - 1] == tacos[i] e tem_no_estoque > 0 então
+    tem_no_estoque   := tem_no_estoque - 1
+  senão
+    tacos_fabricados := tacos_fabricados + 2
+    tem_no_estoque   := 1
+  fim
+fim
+
+escreva tacos_fabricados
