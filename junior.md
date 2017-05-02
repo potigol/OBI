@@ -15,8 +15,8 @@
 
 ## 2014
 ### Fase 2
-  - [x] [Loteria](/2014/fase2/loteria.poti)
-  - [x] [Sinuca](/2014/fase2/sinuca.poti)
+  - [x] [Loteria](/2014/fase2/loteria.poti) :balloon:
+  - [x] [Sinuca](/2014/fase2/sinuca.poti) :balloon:
   - [x] [Passa Bolinha](/2014/fase2/bolinha.poti) :balloon:
 
 ### Fase 1
