@@ -1,4 +1,5 @@
 # Nível Júnior
+:balloon: Questões aceitas no [URI Online Judge](https://www.urionlinejudge.com.br) usando o script [Potigol2Scala](https://github.com/potigol/potigol2scala)
 
 ## 2016
 
