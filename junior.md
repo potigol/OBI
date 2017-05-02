@@ -17,7 +17,7 @@
 ### Fase 2
   - [x] [Loteria](/2014/fase2/loteria.poti)
   - [x] [Sinuca](/2014/fase2/sinuca.poti)
-  - [x] [Passa Bolinha](/2014/fase2/bolinha.poti)
+  - [x] [Passa Bolinha](/2014/fase2/bolinha.poti) :balloon:
 
 ### Fase 1
   - [x] [Flíper](/2014/fase1/fliper.poti) :balloon:
