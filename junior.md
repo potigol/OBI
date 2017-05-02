@@ -20,12 +20,12 @@
   - [x] [Passa Bolinha](/2014/fase2/bolinha.poti)
 
 ### Fase 1
-  - [x] [Flíper](/2014/fase1/fliper.poti)
-  - [x] [Gangorra](/2014/fase1/gangorra.poti)
+  - [x] [Flíper](/2014/fase1/fliper.poti) :balloon:
+  - [x] [Gangorra](/2014/fase1/gangorra.poti) :balloon:
   - [x] [Fila](/2014/fase1/fila.poti)
 
 ## 2013
 ### Fase 1
-  - [x] [Saldo](/2013/fase1/saldo.poti)
-  - [x] [Tomadas](/2013/fase1/tomadas.poti)
-  - [x] [Capital](/2013/fase1/capital.poti)
+  - [x] [Saldo](/2013/fase1/saldo.poti) :balloon:
+  - [x] [Tomadas](/2013/fase1/tomadas.poti) :balloon:
+  - [x] [Capital](/2013/fase1/capital.poti) :balloon:
