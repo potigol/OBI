@@ -1,6 +1,8 @@
 # OBI
 Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguagem Potigol](http://potigol.github.io).
 
+:new: Novo Repositório: https://github.com/potigol/URI-Potigol/blob/master/categorias/obi.md
+
 ## 2015
 [Provas](http://olimpiada.ic.unicamp.br/noticias/gab_fase1_prog)
 
