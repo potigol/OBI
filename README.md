@@ -1,7 +1,8 @@
+> **Warning**
+> Novo Repositório: [https://potigol.github.io/uoj-potigol/competicoes/obi/](https://github.com/potigol/beecrowd/tree/master/competicoes/obi)
+
 # OBI
 Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguagem Potigol](http://potigol.github.io).
-
-:new: Novo Repositório: https://potigol.github.io/uoj-potigol/competicoes/obi/
 
 ## 2015
 [Provas](http://olimpiada.ic.unicamp.br/noticias/gab_fase1_prog)
