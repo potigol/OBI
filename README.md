@@ -1,5 +1,5 @@
 > **Warning**
-> Novo Repositório: [https://potigol.github.io/uoj-potigol/competicoes/obi/](https://github.com/potigol/beecrowd/tree/master/competicoes/obi)
+> Novo Repositório: [https://potigol.github.io/beecrowd/competicoes/obi/](https://github.com/potigol/beecrowd/tree/master/competicoes/obi)
 
 # OBI
 Questões da Olimpíada Brasileira de Informática resolvidas usando a [Linguagem Potigol](http://potigol.github.io).
